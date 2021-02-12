@@ -1,0 +1,7 @@
+{
+  "name": "OGMA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
